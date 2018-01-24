@@ -1,0 +1,17 @@
+{
+  "commitish" : "0.3.0",
+  "iOS" : [
+    {
+      "name" : "FacebookShare",
+      "hash" : "17f2984c414e46d41aa1a47043d64c4c4747be76183285113c2f2abf1711d4fd"
+    },
+    {
+      "name" : "FacebookLogin",
+      "hash" : "a25bf069905b17d90966c0473e8696001ef5e6b528839caac487e9787c19ffd6"
+    },
+    {
+      "name" : "FacebookCore",
+      "hash" : "66c05cd223cc3fda281998bd3d52e3f7494f9c7dae56b4e011d001f3b9a37bc8"
+    }
+  ]
+}

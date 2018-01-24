@@ -1,0 +1,10 @@
+/* 
+  localizable.strings
+  eventomorrow-ios
+
+  Created by Vo The Dong An on 1/18/18.
+  Copyright © 2018 Nguyen Ngoc Son. All rights reserved.
+*/
+"forgetPassword" = "Forget pass";
+"txtName_placeHolder" = "Name";
+"signUp_lbl_AlreadyHadAnAccount" = "Already had an account?SON";

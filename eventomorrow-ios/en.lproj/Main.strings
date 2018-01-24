@@ -1,0 +1,90 @@
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "07I-lN-HXa"; */
+"07I-lN-HXa.normalTitle" = "Reset";
+
+/* Class = "UIButton"; normalTitle = " Log in"; ObjectID = "0Ry-yx-K78"; */
+"0Ry-yx-K78.normalTitle" = " Log in";
+
+/* Class = "UIButton"; normalTitle = "Google"; ObjectID = "3iX-k0-jwo"; */
+"3iX-k0-jwo.normalTitle" = "Google";
+
+/* Class = "UIButton"; normalTitle = "Past Event"; ObjectID = "70j-PD-7LH"; */
+"70j-PD-7LH.normalTitle" = "Past Event";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "94x-KH-FCk"; */
+"94x-KH-FCk.title" = "Profile";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "9LI-cY-pxh"; */
+"9LI-cY-pxh.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "   or   "; ObjectID = "ETB-Mw-xZR"; */
+"ETB-Mw-xZR.text" = "   or   ";
+
+/* Class = "UILabel"; text = "Forget password?"; ObjectID = "Grv-hh-HxP"; */
+"Grv-hh-HxP.text" = "Forget password?";
+
+/* Class = "UIButton"; normalTitle = " Register"; ObjectID = "IYW-oV-Vj4"; */
+"IYW-oV-Vj4.normalTitle" = " Register";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "MWh-sW-cWx"; */
+"MWh-sW-cWx.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "2/9 Square, 30/4 street, Hai Chau"; ObjectID = "NDn-lL-Usf"; */
+"NDn-lL-Usf.text" = "2/9 Square, 30/4 street, Hai Chau";
+
+/* Class = "UILabel"; text = "15"; ObjectID = "NzF-bx-zy3"; */
+"NzF-bx-zy3.text" = "15";
+
+/* Class = "UILabel"; text = "Enter email address to get password:"; ObjectID = "SlY-cx-bGe"; */
+"SlY-cx-bGe.text" = "Enter email address to get password:";
+
+/* Class = "UILabel"; text = "Rock Night"; ObjectID = "Snv-rg-nSQ"; */
+"Snv-rg-nSQ.text" = "Rock Night";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "WwT-T4-cFj"; */
+"WwT-T4-cFj.placeholder" = "Confirm Password";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Zet-rt-lNz"; */
+"Zet-rt-lNz.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "aAH-3m-yMN"; */
+"aAH-3m-yMN.text" = "Don't have an account?";
+
+/* Class = "UILabel"; text = "JAN"; ObjectID = "b25-2Z-mLh"; */
+"b25-2Z-mLh.text" = "JAN";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "bzu-Sv-nzc"; */
+"bzu-Sv-nzc.normalTitle" = "Log in";
+
+/* Class = "UIButton"; normalTitle = "Upcomming Event"; ObjectID = "cFt-QY-z8S"; */
+"cFt-QY-z8S.normalTitle" = "Upcomming Event";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "dPy-5F-64o"; */
+"dPy-5F-64o.title" = "Home";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "eNN-qn-Ncx"; */
+"eNN-qn-Ncx.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "iQe-7r-6a4"; */
+"iQe-7r-6a4.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "oHC-4I-ppg"; */
+"oHC-4I-ppg.normalTitle" = "Facebook";
+
+/* Class = "UIButton"; normalTitle = "GOING"; ObjectID = "pdH-Iv-Ak5"; */
+"pdH-Iv-Ak5.normalTitle" = "GOING";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "ruW-n5-n6Y"; */
+"ruW-n5-n6Y.normalTitle" = "back";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "s2h-LJ-CO3"; */
+"s2h-LJ-CO3.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Already had an account?"; ObjectID = "t20-gr-0OQ"; */
+"t20-gr-0OQ.text" = "Already had an account?";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "wb8-aY-N13"; */
+"wb8-aY-N13.placeholder" = "Phone Number";
+
+/* Class = "UITabBarItem"; title = "Notification"; ObjectID = "xeY-jL-9Bf"; */
+"xeY-jL-9Bf.title" = "Notification";

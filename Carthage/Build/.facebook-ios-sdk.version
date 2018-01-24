@@ -1,0 +1,21 @@
+{
+  "commitish" : "sdk-version-4.29.0",
+  "iOS" : [
+    {
+      "name" : "FBSDKPlacesKit",
+      "hash" : "60f851e1bf1255e5404bdc359e12a04705009e2dc3e355d268c02ec6fec0ab81"
+    },
+    {
+      "name" : "FBSDKShareKit",
+      "hash" : "a0f3ac980edc008186055372ad4b7955fc8ca8853aa24e4fc8e2948aa471b3ec"
+    },
+    {
+      "name" : "FBSDKLoginKit",
+      "hash" : "7dafe9483ad0af1ce3eccb0c281dfe7dd1cae5e3d948d50209ca5fdd5be3e2ec"
+    },
+    {
+      "name" : "FBSDKCoreKit",
+      "hash" : "d05bdeaa17749ef9e1201405321cb1c79adb291a19c00e85984d063e74070f89"
+    }
+  ]
+}

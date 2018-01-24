@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  eventomorrow-ios
+
+  Created by Nguyen Ngoc Son on 1/22/18.
+  Copyright © 2018 Nguyen Ngoc Son. All rights reserved.
+*/
+
+signUp_lbl_AlreadyHadAnAccount = "Already had an account?";
+txtName_placeHolder = "Name";
+signUp_btn_Register = "Register";
